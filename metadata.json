@@ -1,8 +1,6 @@
 {
-  "name": "Remix ศูนย์ซ่อมมือถือรัตภูมิ By ฟู่เฮงโมบาย",
-  "description": "ระบบบริหารจัดการร้านซ่อมมือถือ ออกใบซ่อม/สลิป วาดรหัสผ่าน 9 จุด รายงานทุน-กำไรวันเดือนปี สำหรับมือถือและแท็บเล็ต",
+  "name": "ร้านซ่อมมือถือรัตภูมิByฟู่เฮงโมบาย",
+  "description": "ระบบบันทึกงานซ่อมมือถือ คำนวณทุน-กำไร บันทึกงานร้านส่ง และระบบบริหารอะไหล่ สำหรับร้านซ่อมมือถือรัตภูมิ By ฟู่เฮงโมบาย",
   "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
